@@ -75,8 +75,26 @@
 
 \begin_body
 
-\begin_layout Standard
+\begin_layout Title
+Algebraic Topology Notes
+\end_layout
 
+\begin_layout Author
+Aaron Bailey
+\end_layout
+
+\begin_layout Standard
+Here are some of my notes from my reading of 
+\begin_inset Quotes eld
+\end_inset
+
+Algebraic Topology
+\begin_inset Quotes erd
+\end_inset
+
+ by Hatcher.
+ The primary purpose will be to write down definitions, clarify things in
+ need of clarification, and complete the exercises.
 \end_layout
 
 \end_body
