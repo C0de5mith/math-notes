@@ -1,4 +1,4 @@
-name: Update Website Nootes
+name: Update Website Notes
 
 on:
   push:
