@@ -114,7 +114,23 @@ shrunk
 \end_inset
 
  down to a core lines which are then homeomorphic (e.g.
- B and 8 would both shrink down to homeomorphic curves).
+ 
+\begin_inset Quotes eld
+\end_inset
+
+B
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+8
+\begin_inset Quotes erd
+\end_inset
+
+ would both shrink down to homeomorphic curves).
  Hatcher goes on to parameterize such shrinkage and give our first definition.
  A 
 \series bold
@@ -196,6 +212,31 @@ for all
 \end_inset
 
 ).
+ Hatcher defines for any 
+\begin_inset Formula $f:X\rightarrow Y$
+\end_inset
+
+ a 
+\series bold
+mapping cylinder
+\series default
+ 
+\begin_inset Formula $M_{f}$
+\end_inset
+
+ as the quotient space of the disjoint union 
+\begin_inset Formula $(X\times I)\amalg Y$
+\end_inset
+
+ obtained by identifying each 
+\begin_inset Formula $(x,1)\in X\times I$
+\end_inset
+
+ with 
+\begin_inset Formula $f(x)\in Y$
+\end_inset
+
+.
 \end_layout
 
 \end_body
